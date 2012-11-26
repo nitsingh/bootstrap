@@ -1,3 +1,5 @@
+Fork Clone Help : Use git clone http://github.com/nitsingh/bootstrap.git from gitbash to clone
+
 [Twitter Bootstrap](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
 =================
 
